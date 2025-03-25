@@ -1,0 +1,4 @@
+voices/*.ogg
+# But do not ignore the folder itself (Git doesn't track empty folders,
+# so you might want to add a .gitkeep or something)
+!voices/.gitkeep
